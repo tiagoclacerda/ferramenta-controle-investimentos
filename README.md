@@ -1,4 +1,4 @@
-# Lacerda Investimentos S.A.
+Lacerda Investimentos S.A.
 
 Ferramenta em Excel para **simulação e controle de investimentos**, com foco em aportes mensais, projeção de patrimônio, estimativa de dividendos e distribuição sugerida entre categorias de Fundos de Investimento Imobiliário (FIIs).
 
@@ -6,7 +6,7 @@ Ferramenta em Excel para **simulação e controle de investimentos**, com foco e
 
 ---
 
-## 📊 Visão geral
+Visão geral
 
 A planilha permite informar parâmetros básicos e visualizar automaticamente:
 
@@ -22,7 +22,7 @@ A planilha permite informar parâmetros básicos e visualizar automaticamente:
 
 ---
 
-## 📁 Estrutura do projeto
+Estrutura do projeto
 
 ```text
 lacerda-investimentos/
